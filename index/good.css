@@ -1,0 +1,62 @@
+.bannerContainer {
+    margin-left: -10px;
+    margin-top: -25px;
+    margin-right: -10px;
+    background-color: cornflowerblue;
+    min-height: 200px;
+    padding-top: 35px;
+}
+
+.navBar {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+.bannerContent {
+    text-align: center;
+    color: tan;
+    background-color: blue;
+    border-radius: 20px;
+    width: 40%;
+    margin-left: 30%
+}
+
+.profilePic {
+    border-radius: 65%;
+}
+
+.about {
+    width: 70%;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.horizAlign {
+    display: flex;
+    flex-direction: row;
+}
+
+.pusher {
+    margin-left: 17%;
+}
+
+.alignText{
+    text-align: center;
+}
+
+.vertMenu {
+    min-width: 25%;
+    border-style: solid;
+    border-color: lightgray;
+    background-color: lightgray;
+    max-height: 450px;
+    text-align: center;
+}
+
+.skillsHeader {
+    color: steelblue;
+    font-size: 25px;
+}
