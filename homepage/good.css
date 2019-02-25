@@ -11,6 +11,7 @@ body {
     padding-top: 35px;
 }
 
+/* navbar css reference: https://www.w3schools.com/css/css_navbar.asp accessed: Feb 24, 2019 */
 .navBar {
     height: 50px;
     background-color: black;

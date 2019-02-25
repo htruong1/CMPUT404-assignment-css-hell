@@ -11,6 +11,8 @@ body {
     font-family: "Comic Sans MS";
 }
 
+/* navbar css reference: https://www.w3schools.com/css/css_navbar.asp accessed: Feb 24, 2019 */
+
 .navBar {
     width: 30%;
     min-height: 30px;
