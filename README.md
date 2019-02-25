@@ -27,3 +27,5 @@ Code is licensed under the Apache 2.0 license.
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/2.5/ca/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/2.5/ca/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/2.5/ca/">Creative Commons Attribution-NoDerivs 2.5 Canada License</a>.
 
 HTML Content is copyright by Henry under CC-BY-ND
+License Source: https://creativecommons.org/choose/results-one?license_code=by-nd&amp;jurisdiction=ca&amp;version=2.5&amp;lang=en_GB 
+Accessed: Feb 25, 2019
