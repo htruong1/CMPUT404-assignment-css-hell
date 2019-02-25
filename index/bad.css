@@ -12,8 +12,12 @@ body {
 }
 
 .navBar {
-    width: 100%;
-    height: 50px;
+    width: 30%;
+    min-height: 30px;
+    margin-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
     background-color: yellow;
     border-style: solid;
     border-color: hotpink;
@@ -23,11 +27,9 @@ body {
     text-align: center;
     color: hotpink;
     opacity: 0.7;
-    /* background-color: blue; */
     border-radius: 20px;
     width: 40%;
-    margin-left: 30%;
-    /* color: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);  */
+    margin-left: 30%;  
 }
 
 
@@ -40,7 +42,6 @@ body {
     margin-left: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    font-family: Arial, Helvetica, sans-serif
 }
 
 .uglyAbout {
@@ -87,4 +88,14 @@ body {
 
 .uglyFontMatch {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.uglyOptions {
+    display: inline;
+    border-right: 1px solid black;
+}
+
+.uglySeparator {
+    border-right: 1px solid black;
+    margin-left: 3px;
 }
