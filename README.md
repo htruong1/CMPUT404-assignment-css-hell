@@ -12,6 +12,9 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Modifications made to Gutenberg: I commented out all the style tags in each html file and imported the gutenberg.css in.
+CSS References: https://www.w3schools.com accessed on Feb 24, 2019
+
 License/Copyright
 =================
 
